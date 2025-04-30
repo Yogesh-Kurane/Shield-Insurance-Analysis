@@ -124,7 +124,6 @@ The project utilizes structured `.csv` files, including:
 ## 🌐 Live Dashboard
 🔗 **[View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzY3NzEyNDMtNjY2ZS00YThjLWFlODEtZmFkNDY4M2VmMTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** 
 
-
 ---
 
 ## 🏁 Conclusion
@@ -132,3 +131,6 @@ The project utilizes structured `.csv` files, including:
 This project demonstrates how modern BI tools can transform raw insurance data into real insights, helping stakeholders make smarter and faster decisions. It reflects both technical ability and business acumen in solving domain-specific challenges.
 
 ---
+
+## 📩 Contact & Feedback  
+**[LinkedIn](https://www.linkedin.com/in/yogeshkurane/)**
