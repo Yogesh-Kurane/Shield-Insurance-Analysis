@@ -121,11 +121,9 @@ The project utilizes structured `.csv` files, including:
 
 ---
 
-## 📎 Report Preview
+## 🌐 Live Dashboard
+🔗 **[View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzY3NzEyNDMtNjY2ZS00YThjLWFlODEtZmFkNDY4M2VmMTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** 
 
-📌 *[Upload and link screenshots or PDF reports here once available]*  
-Example:  
-- [Shield Insurance KPI Dashboard (PDF)](https://github.com/yourusername/repo-name/blob/main/reports/kpi_dashboard.pdf)
 
 ---
 
