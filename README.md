@@ -1,5 +1,6 @@
 # 🛡️ Shield Insurance Analysis | Tools: Power BI, Excel
 
+## 🧭 Overview
 Welcome to the **Shield Insurance Analysis** project repository! 📊  
 This project focuses on unlocking key business insights for **Shield Insurance**, a rapidly growing insurance provider in India, by leveraging **Power BI dashboards** to support data-driven decisions.
 
