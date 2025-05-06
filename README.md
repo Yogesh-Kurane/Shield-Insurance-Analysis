@@ -1,4 +1,4 @@
-# 🛡️ Shield Insurance Analysis | Tools: Power BI, Excel
+# 🛡️ Shield Insurance Analysis | Tools Used: Power BI, Excel
 
 ## 📌 Overview
 Welcome to the **Shield Insurance Analysis** project repository! 📊  
